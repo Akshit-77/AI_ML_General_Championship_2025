@@ -2,6 +2,8 @@
 
 A machine learning project for classifying 200 different bird species using deep learning techniques. This project includes data augmentation tools and a Swin Transformer-based classifier.
 
+## HUGGING FACE INTERFACE LINK - https://huggingface.co/spaces/Akshit-77/Bird-Classifier
+
 ## Project Overview
 
 This project tackles the challenge of bird species identification using computer vision. With a dataset containing images of 200 different bird species, we implement:
